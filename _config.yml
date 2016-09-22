@@ -1,0 +1,42 @@
+# Basic
+name:               "Electronics and Communication Department"
+description:        "Official page of RNSIT ECE"
+
+# jekyll-seo-tag, see: http://www.rubydoc.info/gems/jekyll-seo-tag/1.2.0
+#url:                ""
+#author:             "gfjaru"
+#twitter:
+#  username:         "gfjaru"
+#facebook:
+#  app_id:           1234
+#    publisher:      1234
+
+# URL
+baseurl:            ""
+#baseurl:            "" #For Root Domain
+permalink:          /:title/
+
+# Markdown
+markdown:           kramdown
+
+# Sass
+sass:
+  style:            :compressed
+
+# Scopes
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
+
+gems:
+  - jekyll-seo-tag
