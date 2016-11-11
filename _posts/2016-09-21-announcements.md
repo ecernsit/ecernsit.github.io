@@ -2,6 +2,103 @@
 title: Announcements
 ---
 
+>9 NOV,2016
+		
+##### III - Internal Time Table			
+			
+|Date & Day|			9.00am - 10.45 am				 |2.00pm - 3.45pm|
+|-------------------------------------+------------+--------------------------------------------------------------+------------------------------------------------|
+|14.11.2016  Monday		| III Sem	|Engg. Mathematics                                (15MAT31)	|Analog Electronics  (15EC32)|
+|			| V Sem	|Management & Entrepreneurship (10AL51)	|Digital Signal Processing (10EC52)|
+|			| VII Sem	|Computer Communication Networks (10EC71)	|Optical Fiber Communication (10EC72)|
+|15.11.2016   Tuesday 		 |III Sem	|Digital Electronics  (15EC33)			|Network Analysis (15EC34)|
+|			| V Sem	|Analog Communication (10EC53)		|Microwave & Radar (10EC54)|
+|			|VII Sem	|Power Electronics (10EC73)			|Embedded System Design (10EC74)|
+|16.11.2016    Wednesday	|III Sem	|Electronic Instrumentation (15EC35)		|Engg. Electromagnetics (15EC36)|
+|			|V Sem	|Information Theory & Coding (10EC55)		|Fundamentals of CMOS VLSI (10EC56)|
+|			|VII Sem	|DSP Algorithms & Architecture (10EC751) 	|Image Processing (10EC763)|
+
+
+
+
+>9 NOV,2016
+
+### III Sem	
+#####Lab Internals                                            
+							
+|Date/Day	|AE  Lab					|DE LAB				|
+|-------------------------+---------------------------------------------------------------+--------------------------------------------------|
+|		|8.45-11.45AM	|12.30- 3.30PM		|8.45-11.45AM	|12.30- 3.30PM	|	
+|18/11/16   FRI	|B1		|B2			|D1		|D2		|
+|19/11/16  SAT	|C1		|			|A1		|		|	
+|21/11/16 MON	|C2		|D1			|A2		|B1		|
+|22/11/16   TUE	|D2		|A1			|B2		|C1		|
+|23/11/16  WED	|A2		|			|C2		|		|	
+							
+##### Lab Repitition  slot							
+
+|Date/Day	|AE  Lab					|DE Lab		|
+|------------------------+--------------------------------------------------------------+--------------------------|	
+|		|8.45-11.45AM	|1.00-4.00 PM	|8.45-11.45AM	|1.00-4.00 PM|		
+|23/11/16  WED	|		|A1		|		|A2	|	
+|24/11/16   THU	|A2		|B1		|A1		|B2	|	
+|25/11/16  FRI	|B2		|C1		|B1		|C2	|	
+|26/11/16 SAT	|D2		|		|D1		|	|	
+|28/11/16  MON	|D1		|C2		|D2		|C1	|	
+
+>9 NOV,2016
+
+### V  Sem	
+##### Lab Internals          
+                                          						
+|Date/Day	|	AC + LIC  Lab	|		DSP Lab			|
+|-------------------------+------------------------------------+---------------------------------------------------------------|
+|		|8.40 - 11.40 |         12.30 - 3.30	|	8.40 - 11.40 |	|12.30 - 3.30	|	
+|18/11/16   FRI	|A1	     |	A2	|	B1	  |	B2		|
+|19/11/16  SAT	|A3	     |		|	B3	  |			|
+|21/11/16 MON	|B1	     |	B2	|	C1	  |	C2		|
+|22/11/16   TUE	|B3	     |	C1	|	C3	  |	A1		|
+|23/11/16  WED	|C2	     |	C3	|	A2	  |	A3		|
+							
+##### Lab Repitition  slot
+							
+|Date/Day	|		AC+LIC  Lab			|			DSP Lab			
+|		|8.40-11.00	|11.00-1.40PM	|1.40-4.30PM	|8.40-11.00am	|11.00-1.40pm	|1.30-4.30pm	
+|24/11/16   THU	|A1		|A2		|A3		|B1		|B2		|B3	
+|25/11/16  FRI	|B1		|B2		|B3		|C1		|C2		|C3	
+|26/11/16 SAT	|C1		|C2		|		|A1		|A2		|
+|28/11/16  MON	|C3		|		|		|A3		|		|
+
+
+>9 NOV,2016
+
+### VII Sem	
+
+##### Lab Internals        
+                                           							
+|Date/Day	|VLSI LAB												|			PE LAB		
+|------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------|
+|		|8.40-11.30			|11.00-1.50PM			|1.20-4.10PM			|8.40-11.30			|11.00-1.50PM			|1.20-4.10PM|
+|18/11/16   FRI	|B1 (1RN13EC001 TO 1RN13EC021)	|B2 (1RN13EC022 TO 1RN13EC042)	|B3 (1RN13EC043 TO 1RN13EC069)	|B6 (1RN13EC119 TO 1RN13EC140)	|B7 (1RN13EC141 TO 1RN13EC161)	|B8 (1RN13EC162 TO 1RN13EC186)|
+|19/11/16  SAT	|B4 (1RN13EC070 TO  1RN13EC091)	|B5 (1RN13EC094 TO 1RN13EC117)	|B9 (1RN13EC187 TO 1RN14EC426)	|B10 (1RN14EC427 TO435 &1RN12EC020,035,036,052,077,101,129,175,1RN13EC432)	|				|		|
+|21/11/16 MON	|B6 (1RN13EC119 TO 1RN13EC140)	|B7 (1RN13EC141 TO 1RN13EC161)	|B8 (1RN13EC162 TO 1RN13EC186)	|B1 (1RN13EC001 TO 1RN13EC021)	|B2 (1RN13EC022 TO  1RN13EC042)	|B3 (1RN13EC043 TO 1RN13EC069)|
+|22/11/16   TUE	|B9 (1RN13EC187 TO 1RN14EC426)	|B10 (1RN14EC427 TO435 &1RN12EC020,  035,036,052,077,101,129,175,1RN13EC432)  |B4 (1RN13EC070 TO  1RN13EC091)	|B5 (1RN13EC094 TO 1RN13EC117)	|				|			|
+		
+						
+				
+##### Lab Repitition  slot
+						
+|Date/Day	|VLSI LAB						|PE LAB					|
+|------------------------+----------------------------------------------------------------------------+----------------------------------------------------------------|
+|		|8.40-11.00	|11.00-1.40PM	|1.40-4.30PM	|8.40-11.00	|11.00-1.40PM	|1.40-4.30PM|
+|23/11/16  WED	|A1		|A2		|A3		|A3		|A1		|A2|
+|24/11/16   THU	|B1 		|B2 		|B3 		|B3 		|B1 		|B2| 
+|25/11/16 THU	|C1		|C2		|C3		|C3		|C1		|C2|
+
+
+
+
+
 >20 Oct, 2016
 	
 ##### Make Up Test	
