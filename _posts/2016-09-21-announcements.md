@@ -1,6 +1,10 @@
 ---
 title: Announcements
 ---
+>19 Nov,2016
+
+##### 5th sem --> Check out the Lab go thru Videos on Notes page
+
 
 >9 NOV,2016
 		
