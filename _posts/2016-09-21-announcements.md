@@ -1,12 +1,17 @@
 ---
 title: Announcements
 ---
+>4 Dec,2016
+
+##### Check out the Media page, its now live
+
+
 >19 Nov,2016
 
 ##### 5th sem --> Check out the Lab go thru Videos on Notes page
 
 
->9 NOV,2016
+>9 Nov,2016
 		
 ##### III - Internal Time Table			
 			
@@ -25,7 +30,7 @@ title: Announcements
 
 
 
->9 NOV,2016
+>9 Nov,2016
 
 ### III Sem	
 #####Lab Internals                                            
@@ -50,7 +55,7 @@ title: Announcements
 |26/11/16 SAT	|D2		|		|D1		|	|	
 |28/11/16  MON	|D1		|C2		|D2		|C1	|	
 
->9 NOV,2016
+>9 Nov,2016
 
 ### V  Sem	
 ##### Lab Internals          
@@ -75,7 +80,7 @@ title: Announcements
 |28/11/16  MON	|C3		|		|		|A3		|		|
 
 
->9 NOV,2016
+>9 Nov,2016
 
 ### VII Sem	
 
