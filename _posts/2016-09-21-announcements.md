@@ -6,8 +6,10 @@ title: Announcements
 ### Examinations scheduled on 3rd Jan,16 2:30 PM to 5:30 PM & 4th Jan,16 are postponed. Final dates will be intimated soon
 
 
+
 >4 Dec,2016
- Check out the Media page, its now live
+
+##### Check out the Media page, its now live
 
 
 
