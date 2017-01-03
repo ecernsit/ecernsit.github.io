@@ -1,19 +1,25 @@
 ---
 title: Announcements
 ---
->4 Dec,2016
+>3 Jan, 2017
 
-##### Check out the Media page, its now live
+### Examinations scheduled on 3rd Jan,16 2:30 PM to 5:30 PM & 4th Jan,16 are postponed. Final dates will be intimated soon
+
+
+>4 Dec,2016
+ Check out the Media page, its now live
+
+
 
 
 >19 Nov,2016
 
-##### 5th sem --> Check out the Lab go thru Videos on Notes page
+5th sem --> Check out the Lab go thru Videos on Notes page
 
 
 >9 Nov,2016
 		
-##### III - Internal Time Table			
+III - Internal Time Table			
 			
 |Date & Day|			|9.00am - 10.45 am				 |2.00pm - 3.45pm|
 |-------------------------------------+------------+--------------------------------------------------------------+------------------------------------------------|
