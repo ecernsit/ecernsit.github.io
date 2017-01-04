@@ -10,7 +10,7 @@ title: Announcements
 
 3rd Jan,17 to 13th Jan,17
 
-4th Jan,17 to 14th Jan,17
+4th Jan,17 to 12th Jan,17
 
 
 
