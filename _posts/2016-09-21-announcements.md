@@ -3,7 +3,16 @@ title: Announcements
 ---
 >3 Jan, 2017
 
-### Examinations scheduled on 3rd Jan,17 2:30 PM to 5:30 PM & 4th Jan,17 are postponed. Final dates will be intimated soon
+### Examinations Re-scheduled : Final dates,
+
+3rd Jan,17 to 13th Jan,17
+
+4th Jan,17 to 14th Jan,17
+
+
+>3 Jan, 2017
+
+##### Examinations scheduled on 3rd Jan,17 2:30 PM to 5:30 PM & 4th Jan,17 are postponed. Final dates will be intimated soon
 
 
 
