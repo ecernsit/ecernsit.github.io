@@ -1,6 +1,9 @@
 ---
 title: Announcements
 ---
+>10 Feb, 2017
+2017 even Sem <a  target="_blank" href="https://drive.google.com/open?id=0B9cqMjKT9M-dVjVUd0gyeFY5NmM" >Timetable</a>
+
 
 >4 Jan, 2017
 
@@ -33,7 +36,6 @@ title: Announcements
 
 
 >19 Nov,2016
-
 5th sem --> Check out the Lab go thru Videos on Notes page
 
 
