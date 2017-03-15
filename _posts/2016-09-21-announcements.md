@@ -6,7 +6,7 @@ title: Announcements
 
 ### 1st Internals TimeTable
 
- <img src="https://ecernsit.github.io/assets/top.png" style="width:100%">
+ <img src="https://ecernsit.github.io/assets/TT2017evenSem.jpg" style="width:100%">
 
 
 
