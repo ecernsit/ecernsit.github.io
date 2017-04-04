@@ -59,6 +59,57 @@ layout: default
   }
 }
 
+
+
+.but {
+  display: flex;
+  overflow: hidden;
+
+  margin: 10px;
+  padding: 15px 15px;
+
+  cursor: pointer;
+  user-select: none;
+  transition: all 60ms ease-in-out;
+  text-align: center;
+  white-space: nowrap;
+  text-decoration: none !important;
+  text-transform: none;
+  text-transform: capitalize;
+
+  color: #fff;
+  border: 0 none;
+  border-radius: 4px;
+
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.3;
+
+  -webkit-appearance: none;
+  -moz-appearance:    none;
+  appearance:         none;
+ 
+  justify-content: center;
+  align-items: center;
+  flex: 0 0 160px;
+
+  &:hover {
+    transition: all 60ms ease;
+
+    opacity: .85;
+  }
+  
+  &:active {
+    transition: all 60ms ease;
+    opacity: .75;
+  }
+  
+  &:focus {
+    outline: 1px dotted #959595;
+    outline-offset: -4px;
+  }
+}
+
 .button.-regular {
   color: #202129;
   background-color: #edeeee;
@@ -74,19 +125,42 @@ layout: default
     opacity: 1;
   }
 }
+
+.but.-imp {
+  color: #202129;
+  background-color: #000000;
+  
+  &:hover {
+    color: #202129;
+    background-color: #aaaaaa;
+    opacity: 1;
+  }
+  
+  &:active {
+    background-color: #d5d6d6;
+    opacity: 1;
+  }
+}
 </style>
 
 <br><br>
 
+<div class='but -imp center'>
+<a href="{{ site.baseurl }}/advaya">Advaya</a>
+</div>
 <div class='button -regular center'>
 <a href="{{ site.baseurl }}/announcements">Announcements</a>
 </div>
 <div class='button -regular center'>
 <a href="{{ site.baseurl }}/ss">Notes</a>
 </div>
+
+<!---
 <div class='button -regular center'>
 <a href="{{ site.baseurl }}/connect">Connect</a>
 </div>
+--->
+
 <div class='button -regular center'>
 <a href="{{ site.baseurl }}/media">Media</a>
 </div>
