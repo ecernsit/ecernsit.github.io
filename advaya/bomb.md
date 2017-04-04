@@ -1,5 +1,5 @@
 ---
-title: Tech Quiz
+title: Bomb is the Treasure
 ---
 
 

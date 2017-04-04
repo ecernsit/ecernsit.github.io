@@ -1,5 +1,5 @@
 ---
-title: Tech Quiz
+title: Know the game - Mini-militia
 ---
 
 
