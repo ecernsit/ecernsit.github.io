@@ -6,7 +6,7 @@ title: Paper Presentation
 ### Rules for paper presentation
 
 
-1. In order to participate in multiple events fill the Multi form only once on <a  target="_blank" href="https://ecernsit.github.io/advaya"> Advaya Page </a>
+1. In order to participate in multiple events fill the Multi form only once on <a  target="_blank" href="https://ecernsit.github.io/techkruthi"> Techkruthi Page </a>
 2. Participants should register for Paper Presentation by clicking button below.
 3. One/ Two candidates per team.
 4. Candidates should upload their paper soft-copy to their own google drives and fill in the Registration form.(You can revisit the page)
