@@ -2,7 +2,6 @@
 title: "Techkruthi Events"
 ---
 
-<div>
 
 
 <style>
