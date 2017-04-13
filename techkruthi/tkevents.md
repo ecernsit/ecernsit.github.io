@@ -1,5 +1,5 @@
 ﻿---
-title: "Techkruthi Events"
+title: Techkruthi Events
 ---
 
 
