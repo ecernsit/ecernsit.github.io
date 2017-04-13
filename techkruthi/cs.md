@@ -1,9 +1,20 @@
 ---
-title: Ideathon
+title: Know the game - Counterstrike
 ---
 
 
-### Stay tuned We shall update by Apr 6th, 2017
+### Rules for Counter Strike
+
+1. Team of 4. 
+Incase failed to form a team of 4, 
+then the respective team will be
+disqualified 
+2. Map will be decided on the spot.
+3. Terrorist andt Counter- Terrorist will
+be decided on spot by toss. 
+
+> Entry fee ₹200/- per team.
+
 
 <hr>
 

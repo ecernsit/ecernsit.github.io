@@ -1,9 +1,29 @@
 ---
-title: Know the game - Mini-militia
+title: Code debugging
 ---
 
 
-### Stay tuned We shall update by Apr 6th, 2017
+### Description for Code debugging
+
+
+> Prelims 【Elimination Round】 - Written Round
+
+
+1.  Objective type questions
+2.  Program or scenario will be given on spot.Participants have to decide the program output.
+
+Duration - 40 minutes
+
+
+
+> Finals- Debugging and Interaction
+
+Total 4 questions will be there.
+1.  Programs with bugs will be given and participants have to debug those programs.【x2】
+2.  Practical problem will be given. Working solution is to be formed in c/c++ programming language. 【Algorithm will also have marks】【x2】 
+3.  Blind coding - One of the above problems have to be executed on system with monitor turned off.
+
+Duration - 40 minutes
 
 <hr>
 

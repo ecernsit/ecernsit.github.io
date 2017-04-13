@@ -1,9 +1,13 @@
 ---
-title: Know the game - Counterstrike
+title: Walk In Theater
 ---
 
 
-### Stay tuned We shall update by Apr 6th, 2017
+### Description of Walk In Theater
+
+Videos demystifying the technology in our everyday lives. Covers the breakthrough technologies and scientific discoveries that will shape humanity’s future. Sneak peek of future technology.
+
+> Entry fee : FREE 
 
 <hr>
 

@@ -1,9 +1,17 @@
 ---
-title: Code debugging
+title: Know the game - Counterstrike
 ---
 
 
-### Stay tuned We shall update by Apr 6th, 2017
+### Rules for Clash Royals
+
+1. 2 hours Tournament.
+2. Participant with maximum trophies at the end will be the winners.
+3. Minimum Level 8.
+4. No restrictions on usage of cards.
+
+> Entry fee ₹50/-
+
 
 <hr>
 

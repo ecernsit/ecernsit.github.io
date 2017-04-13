@@ -1,9 +1,9 @@
 ---
-title: Circuit Debugging
+title: Duet Singing
 ---
 
 
-### Stay tuned We shall update by Apr 6th, 2017
+### Stay tuned We shall update by Apr 14th, 2017
 
 <hr>
 

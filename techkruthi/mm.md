@@ -1,10 +1,15 @@
 ---
-title: Hackthon
+title: Know the game - Mini-militia
 ---
 
 
-### Stay tuned We shall update by Apr 6th, 2017
+### Rules for Mini-militia
 
+1. Team of 4.
+2. Map will be decided on the spot.
+3. Hacked version of MINI MILITIA will not be entertained.
+
+> Entry Fee ₹100/- per team
 <hr>
 
 
