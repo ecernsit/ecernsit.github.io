@@ -27,11 +27,11 @@ title: Paper Presentation
 > Deadline for submission : Apr 11, 2017.
 > Entry fee has to be paid before submission of the project i.e  before Apr 11, 2017.
 
-
+<!---
 <div class='button -regular center'>
 <a  target="_blank" href="https://goo.gl/forms/72b2qspIRFUfTpRM2">Register for Paper Presentaion</a> 
 </div>
-
+--->
 
 <hr>
 
