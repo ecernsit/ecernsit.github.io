@@ -78,6 +78,7 @@ title: "Techkruthi Events"
 {:toc}
 </nav>
 
+<h3> All events registration start from Apr 14 , 2017</h3>
 
 <h4> If interested in multiple events do fill up this <a target="_blank" href="https://goo.gl/forms/pPs98LbyaOMOmIEO2">Form</a>
 </h4>
