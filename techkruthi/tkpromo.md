@@ -6,6 +6,9 @@ title: "Techkruthi Promo"
 
 
 
+<img src="ecernsit.github.io/techkruthi/tease.gif"  style="width:80%;">
+
+
 <style>
 .button {
   display: flex;
