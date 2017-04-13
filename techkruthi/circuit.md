@@ -10,7 +10,7 @@ title: Circuit Debugging
 2. Maximum of 2 participants are allowed per team. 
 3. You can do participate individually. 
 4. Mobile phones are prohibited. 
-5. teams will be selected based on their marks..if 2 teams score same marks then the team will be selected based on quiz 
+5. teams will be selected based on their marks.If 2 teams score same marks then the team will be selected based on quiz 
 6. The time limit depends on the number of questions say 30 minutes for 20 questions. 
 7. Based on your approach to the circuit analysis, marks will be rewarded for the final round
 8. Solutions to the final round will be displayed using multisim software
