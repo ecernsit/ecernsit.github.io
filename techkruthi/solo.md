@@ -1,5 +1,5 @@
 ---
-title: Duet Singing
+title: Solo Singing
 ---
 
 
