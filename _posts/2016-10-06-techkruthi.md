@@ -112,12 +112,12 @@ title: "Techkruthi"
 
 * Query Email id   <a href="mailto:{{ site.email }}">rnsecetechfest@gmail.com</a>
 <hr>
->Teacher Co-ordinaters: 
+>Teacher Co-ordinaters: <p></p>
 
 * Nandhini   <a href="tel:+919538365959"></a>
 <hr>
 
->Student Co-ordinaters: 
+>Student Co-ordinaters: <p></p>
 
 * Yogu  <a href="tel:+918105325556">+91 81053 25556</a><p></p>
 
