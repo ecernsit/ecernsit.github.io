@@ -4,7 +4,7 @@ title: "Techkruthi Schedule"
 
 ### Wait is Over, we have designed in a manner that no classes are missed
 
-<img src="https://ecernsit.github.io/assets/tks.jpg" style="width:100%">
+<img src="https://ecernsit.github.io/assets/tks.png" style="width:100%">
 
 
 
