@@ -2,7 +2,7 @@
 title: "Techkruthi Schedule"
 ---
 
-### Wait is Over, we have designed in a manner that no classes are missed
+### Wait is Over, we have scheduled such that you can participate in most events
 
 <img src="https://ecernsit.github.io/assets/tksche.jpg" style="width:100%">
 
