@@ -105,7 +105,6 @@ title: "Techkruthi"
 <h4> Notifications </h4>
 
 
-
 > Check out <a target="_blank" href="https://ecernsit.github.io/techkruthi/tkpromo">Promos</a> for Discount on tickets
 
 > All prelims will be at 3:20 pm
