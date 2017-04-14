@@ -74,6 +74,12 @@ title: "Techkruthi"
 
 <hr>
 
+
+
+
+<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSfKS687uww7uTI4AZ-u48e5EkvquqPoMoghVxgbdLvuApG9Bw/viewform?usp=sf_link">Multi-Event Reg Form</a>
+
+
 <div class='button -regular center'>
 <a target="_blank" href="https://ecernsit.github.io/techkruthi/tkevents">Events</a>
 
@@ -87,9 +93,11 @@ title: "Techkruthi"
 </div>
 
 
+> Notifications
 
 
 
+* Check out <a target="_blank" href="https://ecernsit.github.io/techkruthi/tkpromo">Promos</a> for Discount on tickets
 
 
 

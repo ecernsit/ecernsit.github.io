@@ -1,5 +1,5 @@
 ---
-title: Know the game - Counterstrike
+title: Know the game - Clash Royale
 ---
 
 

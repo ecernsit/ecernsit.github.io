@@ -116,6 +116,10 @@ title: Techkruthi Events
 ###### Non Technical Events
 
 <div class='button -regular center'>
+<a target="_blank" href="https://ecernsit.github.io/techkruthi/ka">Kannada Anthyakshari (Haadu Aata Aadu)</a>
+</div>
+
+<div class='button -regular center'>
 <a target="_blank" href="https://ecernsit.github.io/techkruthi/mm">Know the game - Mini-militia</a>
 </div>
 
@@ -124,7 +128,7 @@ title: Techkruthi Events
 </div>
 
 <div class='button -regular center'>
-<a target="_blank" href="https://ecernsit.github.io/techkruthi/clashroyals">Know the game - Clash Royals</a>
+<a target="_blank" href="https://ecernsit.github.io/techkruthi/clashroyals">Know the game - Clash Royale</a>
 </div>
 
 <div class='button -regular center'>

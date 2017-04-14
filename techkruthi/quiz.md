@@ -3,7 +3,37 @@ title: Tech Quiz
 ---
 
 
-### Stay tuned We shall update by Apr 6th, 2017
+### Event Description for Tech Quiz
+
+
+1. Maximum of 2 students/team. Individual participant is also allowed.
+2. 5 steps to complete & win the race/quiz. Questions will be oral and answers need to be written on the paper.
+3. If a team answers the question right on the paper, they can reach step 1 and so on. Each wrong answer will be considered as minus 1 point.
+4. If a team in step 1 or higher, quotes a wrong answer minus 1 point is equal to stepping down by one step.
+5. Volunteers will keep a check on each team regarding answers and position respectively
+
+
+* In order to participate in multiple events fill the Multi form only once on <a  target="_blank" href="https://ecernsit.github.io/techkruthi"> Techkruthi Page </a>
+* Participants should register for Tech Quiz by clicking button below, and also make payment at a helpdesk near library
+
+
+<div class='button -regular center'>
+<a  target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdPpiR8F2hAtGxWdlRgTeeglmtXXihGhzoOdYH0qKE0pI0-NA/viewform?usp=sf_link">Register for Tech Quiz</a> 
+</div>
+
+
+<hr>
+
+
+
+> Contact:
+  
+* Suhas <a href="tel:+918892179928">+91 88921 79928</a>
+* Pranav <a href="tel:+919880196466">+91 98801 96466</a>
+* Query Email id   <a href="mailto:{{ site.email }}">rnsecetechfest@gmail.com</a>
+
+> Entry Fee : ₹ 100/-
+
 
 <hr>
 

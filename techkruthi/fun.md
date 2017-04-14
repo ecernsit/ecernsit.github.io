@@ -6,10 +6,10 @@ title: Funniest meme
 ### Rules for Funniest meme
 
 
-1) Individual event 
-2) A picture will be posted at 9am on the day of the event. Participants will be added to a whatsapp group. Where the picture will be posted.
-3) Participant should send their meme on the whatsapp group, which should be made as funny as possible.
-4) Funniest meme will be rewarded as the winner.
+1. Individual event 
+2. A picture will be posted at 9am on the day of the event. Participants will be added to a whatsapp group. Where the picture will be posted.
+3. Participant should send their meme on the whatsapp group, which should be made as funny as possible.
+4. Funniest meme will be rewarded as the winner.
 
 
 <hr>
