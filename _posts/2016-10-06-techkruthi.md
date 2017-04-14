@@ -108,15 +108,14 @@ title: "Techkruthi"
 
 * Check out <a target="_blank" href="https://ecernsit.github.io/techkruthi/tkpromo">Promos</a> for Discount on tickets
 
-<hr>
+
 
 * Query Email id   <a href="mailto:{{ site.email }}">rnsecetechfest@gmail.com</a>
-
-
+<hr>
 >Teacher Co-ordinaters: 
 
 * Nandhini   <a href="tel:+919538365959">+91 95383 65959</a>
-
+<hr>
 >Student Co-ordinaters: 
 
 * Yogu  <a href="tel:+918105325556">+91 81053 25556</a>
