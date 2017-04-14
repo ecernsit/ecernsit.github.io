@@ -15,6 +15,27 @@ title: Funniest meme
 <hr>
 
 
+* In order to participate in multiple events fill the Multi form only once on <a  target="_blank" href="https://ecernsit.github.io/techkruthi"> Techkruthi Page </a>
+* Participants should register for Funniest meme by clicking button below, and also make payment at a helpdesk near library
+
+
+<div class='button -regular center'>
+<a  target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSc83hIMtFDfkijuWImWyzsrjhS-MCOs1wItnCjo5DSuIYZdzQ/viewform?usp=sf_link">Register for Funniest meme</a> 
+</div>
+
+
+<hr>
+
+
+> Contact:
+  
+* Rahul <a href="tel:+918904117750">+91 89041 17750</a>
+* Query Email id   <a href="mailto:{{ site.email }}">rnsecetechfest@gmail.com</a>
+
+(Do not submit paper to this email u should submit in the reg form by clicking the above button.
+
+
+> Entry Fee : ₹ 20/-
 <style>
 .button {
   display: flex;

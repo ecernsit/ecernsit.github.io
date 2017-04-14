@@ -13,7 +13,30 @@ disqualified
 3. Terrorist andt Counter- Terrorist will
 be decided on spot by toss. 
 
-> Entry fee ₹200/- per team.
+
+* In order to participate in multiple events fill the Multi form only once on <a  target="_blank" href="https://ecernsit.github.io/techkruthi"> Techkruthi Page </a>
+* Participants should register for Know the game - Counterstrike by clicking button below, and also make payment at a helpdesk near library
+
+
+<div class='button -regular center'>
+<a  target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSeXe-MA8JEFRU7GBAsET1qToYEkkbnbQOj98dQTnJfa8s7ZIw/viewform?usp=sf_link">Register for Know the game - Counterstrike</a> 
+</div>
+
+
+<hr>
+
+
+> Contact:
+  
+* Lohith <a href="tel:+918892592107">+91 88925 92107</a>
+* Sangamesh   <a href="tel:+918277186900">+91 82771 86900</a>
+* Query Email id   <a href="mailto:{{ site.email }}">rnsecetechfest@gmail.com</a>
+
+> Entry Fee : ₹ 50/-
+
+
+<hr>
+
 
 
 <hr>

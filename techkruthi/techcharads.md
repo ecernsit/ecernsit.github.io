@@ -22,6 +22,29 @@ title: Techcharads
 
 <hr>
 
+* In order to participate in multiple events fill the Multi form only once on <a  target="_blank" href="https://ecernsit.github.io/techkruthi"> Techkruthi Page </a>
+* Participants should register for Techcharads by clicking button below, and also make payment at a helpdesk near library
+
+
+<div class='button -regular center'>
+<a  target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSfWzXVF1S-yIgMd21NvuQ_g0-4JGVfGGkO_oZOifJV_UH4kfg/viewform?usp=sf_link">Register for Techcharads</a> 
+</div>
+
+
+<hr>
+
+
+> Contact:
+  
+* Sindhu <a href="tel:+918951253966">+91 89512 53966</a>
+* Swetha <a href="tel:+919632620067">+91 96326 20067</a>
+* Query Email id   <a href="mailto:{{ site.email }}">rnsecetechfest@gmail.com</a>
+
+(Do not submit paper to this email u should submit in the reg form by clicking the above button.
+
+
+> Entry Fee : ₹ 50/-
+
 
 <style>
 .button {

@@ -18,6 +18,27 @@ title: Circuit Debugging
 <hr>
 
 
+* In order to participate in multiple events fill the Multi form only once on <a  target="_blank" href="https://ecernsit.github.io/techkruthi"> Techkruthi Page </a>
+* Participants should register for Circuit Debugging by clicking button below, and also make payment at a helpdesk near library
+
+
+<div class='button -regular center'>
+<a  target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScZ_jz_i1oO-SSRBwCyiq1zrMK9jz9t1gvAwqY6ON-t048OHA/viewform?usp=sf_link">Register for Circuit Debugging</a> 
+</div>
+
+
+<hr>
+
+
+> Contact:
+  
+* Meghana <a href="tel:+919035183409">+91 90351 83409</a>
+* Barthesh <a href="tel:+918971555071">+91 89715 55071</a>
+* Query Email id   <a href="mailto:{{ site.email }}">rnsecetechfest@gmail.com</a>
+
+
+> Entry Fee : ₹ 50/-
+
 <style>
 .button {
   display: flex;

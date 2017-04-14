@@ -16,6 +16,29 @@ title: Ideathon
 <hr>
 
 
+* In order to participate in multiple events fill the Multi form only once on <a  target="_blank" href="https://ecernsit.github.io/techkruthi"> Techkruthi Page </a>
+* Participants should register for Ideathon by clicking button below, and also make payment at a helpdesk near library
+
+
+<div class='button -regular center'>
+<a  target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSc6X6YNf-B_ja-jUjiytiYbOD0_xKQ0XAW6GWHyPNWJG5sNjA/viewform?usp=sf_link">Register for Ideathon</a> 
+</div>
+
+
+<hr>
+
+
+> Contact:
+  
+* Varun <a href="tel:+919035023649">+91 90350 23649</a>
+* Swapnil  <a href="tel:+919035596233">+91 90355 96233</a>
+* Query Email id   <a href="mailto:{{ site.email }}">rnsecetechfest@gmail.com</a>
+
+(Do not submit paper to this email u should submit in the reg form by clicking the above button.
+
+
+> Entry Fee : ₹ 50/-
+
 <style>
 .button {
   display: flex;

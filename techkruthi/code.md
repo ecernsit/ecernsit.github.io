@@ -28,6 +28,26 @@ Duration - 40 minutes
 <hr>
 
 
+* In order to participate in multiple events fill the Multi form only once on <a  target="_blank" href="https://ecernsit.github.io/techkruthi"> Techkruthi Page </a>
+* Participants should register for Code debugging by clicking button below, and also make payment at a helpdesk near library
+
+
+<div class='button -regular center'>
+<a  target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSe2-EORvabWWVe_iKfrB0ExKyz1W16GyyabxfOi-GFAl5yaiQ/viewform?usp=sf_link">Register for Code debugging</a> 
+</div>
+
+
+<hr>
+
+
+> Contact:
+  
+* Elesh <a href="tel:+919482458662">+91 94824 58662</a>
+* Yash Raj   <a href="tel:+918553651033">+91 85536 51033</a>
+* Query Email id   <a href="mailto:{{ site.email }}">rnsecetechfest@gmail.com</a>
+
+
+> Entry Fee : ₹ 50/-
 <style>
 .button {
   display: flex;

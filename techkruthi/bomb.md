@@ -24,13 +24,35 @@ The rules for the treasure hunt are designed to make it a fair and fun experienc
 
 ### ADDITIONAL EVENT INFORMATION:
 * No. of Clues 8
-* Team Size 2 participants per team
+* Team Size 1-3 participants per team
 * Event Length 1 - 2 hours
 * Event Location This event typically takes place within the college Campus
 * Event Elements Problem solving, time management and 
 competition
 
 
+
+
+* In order to participate in multiple events fill the Multi form only once on <a  target="_blank" href="https://ecernsit.github.io/techkruthi"> Techkruthi Page </a>
+* Participants should register for Bomb is the Treasure by clicking button below, and also make payment at a helpdesk near library
+
+
+<div class='button -regular center'>
+<a  target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSd7Ee0fhVeCiZqfaOoNUCeNkTPV6aUsVsbvuZ-fENDx7uGj6Q/viewform?usp=sf_link">Register for Bomb is the Treasure</a> 
+</div>
+
+
+<hr>
+
+
+> Contact:
+  
+* Vishal <a href="tel:+918892480845">+91 88924 80845</a>
+* Sumanth <a href="tel:+918197703485">+91 81977 03485</a>
+* Query Email id   <a href="mailto:{{ site.email }}">rnsecetechfest@gmail.com</a>
+
+
+> Entry Fee : ₹ 100/-
 
 
 <hr>

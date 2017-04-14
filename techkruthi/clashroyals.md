@@ -10,7 +10,26 @@ title: Know the game - Clash Royale
 3. Minimum Level 8.
 4. No restrictions on usage of cards.
 
-> Entry fee ₹50/-
+
+* In order to participate in multiple events fill the Multi form only once on <a  target="_blank" href="https://ecernsit.github.io/techkruthi"> Techkruthi Page </a>
+* Participants should register for Know the game - Clash Royale by clicking button below, and also make payment at a helpdesk near library
+
+
+<div class='button -regular center'>
+<a  target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSe9O1wC9OehDG6ZYFntbc0i_aOI_mZHJfGHuz0JxKZc01op3g/viewform?usp=sf_link">Register for Know the game - Clash Royale</a> 
+</div>
+
+
+<hr>
+
+
+> Contact:
+  
+* Lohith <a href="tel:+918892592107">+91 88925 92107</a>
+* Sangamesh   <a href="tel:+918277186900">+91 82771 86900</a>
+* Query Email id   <a href="mailto:{{ site.email }}">rnsecetechfest@gmail.com</a>
+
+> Entry Fee : ₹ 50/-
 
 
 <hr>

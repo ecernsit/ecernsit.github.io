@@ -19,6 +19,28 @@ title: Tech Ads
 
 
 
+* In order to participate in multiple events fill the Multi form only once on <a  target="_blank" href="https://ecernsit.github.io/techkruthi"> Techkruthi Page </a>
+* Participants should register for Tech Ads by clicking button below, and also make payment at a helpdesk near library
+
+
+<div class='button -regular center'>
+<a  target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSeKMCSiDWFHdhsYDcntrcVjWeNYEu2hGQawOTEKg6eZI52jiA/viewform?usp=sf_link">Register for Tech Ads</a> 
+</div>
+
+
+<hr>
+
+
+> Contact:
+    
+* Likith <a href="tel:+919535402471">+91 95354 02471</a>
+* Mahanth   <a href="tel:+919632405840">+91 96324 05840</a>
+* Query Email id   <a href="mailto:{{ site.email }}">rnsecetechfest@gmail.com</a>
+
+
+> Entry Fee : ₹ 100/-
+
+<hr>
 
 <!---
 <div class='button -regular center'>
