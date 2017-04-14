@@ -108,7 +108,7 @@ title: "Techkruthi"
 > Check out <a target="_blank" href="https://ecernsit.github.io/techkruthi/tkpromo">Promos</a> for Discount on tickets
 
 > All prelims will be at 3:20 pm
-
+<p></p>
 
 * Query Email id   <a href="mailto:{{ site.email }}">rnsecetechfest@gmail.com</a>
 <hr>
