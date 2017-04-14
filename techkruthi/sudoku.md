@@ -1,42 +1,41 @@
 ---
-title: Kannada Anthyakshari
+title: Sudoku
 ---
 
 
-### Event Description for Kannada Anthyakshari
+### Event Description for Sudoku
 
-1.2 or 3 members in each group.
+Sudoku is a puzzle game, based on decision making and combinational number placement with accuracy and timing.
 
-2.Questions will be asked only related to sandalwood. 
+1.  There will be 3 rounds totally the first one being free
+2.  The participants can be single or a team of 2
 
-3.Only Kannada(movie) songs in HAADU AATA ADU round. 
+### Rule of law:
+1. The participant/s are allowed to show up at the event with a pen & pencil and something to refresh themselves whilst not spoiling the answer paper.
+2. The participants are not supposed communicate with other participants 
+3. Try not over write on the answer, too much over writing might lead to disqualification.
 
-4. There will be 5(1+4) rounds, First one will be eimination. 
+### Additional information:
+1. The participant who submit the answer sheet with accuracy and quickest is selected.
+2.  Location ECE block, academic block 2, second floor.
+3. puzzle time lapse 40 minutes maximum all three rounds included.
 
-5.Elimination round consists of 20 questions with time limit of 15minutes. 
 
-6.Usage of mobile prohibited. 
-
-7.Jugde's decision will be final.
 
 <div class='button -regular center'>
-<a  target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSd1Go85e0gHKGubIXRXVAHChkye3EFs-RqmOG0PkQxSwKDZFA/viewform?usp=sf_link">Register for Kannada Anthyakshari</a> 
+<a  target="_blank" href="https://goo.gl/forms/pPs98LbyaOMOmIEO2">Register for Sudoku</a> 
 </div>
 
 
 <hr>
-* In order to participate in multiple events fill the Multi form only once on <a  target="_blank" href="https://ecernsit.github.io/techkruthi"> Techkruthi Page </a>
-* Participants should register for Kannada Anthyakshari by clicking button below, and also make payment at a helpdesk near library
-
-
 
 > Contact:
   
-* Subramanya <a href="tel:+919482339850">+91 94823 39850</a>
-* Sharth <a href="tel:+919880725224">+91 9880725224</a>
+* Uday <a href="tel:+917760668547">+91 77606 68547</a>
+* Yogu   <a href="tel:+918105325556">+91 81053 25556</a>
 * Query Email id   <a href="mailto:{{ site.email }}">rnsecetechfest@gmail.com</a>
 
-> Entry Fee : ₹ 20/-
+> Entry Fee : F
 
 
 <hr>

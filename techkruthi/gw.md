@@ -1,42 +1,31 @@
 ---
-title: Kannada Anthyakshari
+title: Guess what
 ---
 
 
-### Event Description for Kannada Anthyakshari
-
-1.2 or 3 members in each group.
-
-2.Questions will be asked only related to sandalwood. 
-
-3.Only Kannada(movie) songs in HAADU AATA ADU round. 
-
-4. There will be 5(1+4) rounds, First one will be eimination. 
-
-5.Elimination round consists of 20 questions with time limit of 15minutes. 
-
-6.Usage of mobile prohibited. 
-
-7.Jugde's decision will be final.
-
+### Event Description for Guess what 
+ 
+1. In a group there should be two. 
+2. There is *no entry fee*.
+3. Groups which are selected to next round should pay the registration fee(Fee will *not* be more than *30* rs).
+4. Totally there will be three rounds. 
+5. We will give u a dialog (Hindi movie, English movie, English series) you should guess the name of the movie and the name of the character.
+6. Winning group will be awarded price money. 
+7. Co-ordinators decision is final.
 <div class='button -regular center'>
-<a  target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSd1Go85e0gHKGubIXRXVAHChkye3EFs-RqmOG0PkQxSwKDZFA/viewform?usp=sf_link">Register for Kannada Anthyakshari</a> 
+<a  target="_blank" href="https://goo.gl/forms/pPs98LbyaOMOmIEO2">Register for Guess what </a> 
 </div>
 
 
 <hr>
-* In order to participate in multiple events fill the Multi form only once on <a  target="_blank" href="https://ecernsit.github.io/techkruthi"> Techkruthi Page </a>
-* Participants should register for Kannada Anthyakshari by clicking button below, and also make payment at a helpdesk near library
-
-
 
 > Contact:
   
-* Subramanya <a href="tel:+919482339850">+91 94823 39850</a>
-* Sharth <a href="tel:+919880725224">+91 9880725224</a>
+* Vamshi <a href="tel:+919686557674">+91 96865 57674</a>
+* Yogu   <a href="tel:+918105325556">+91 81053 25556</a>
 * Query Email id   <a href="mailto:{{ site.email }}">rnsecetechfest@gmail.com</a>
 
-> Entry Fee : ₹ 20/-
+> Entry Fee : FREE
 
 
 <hr>

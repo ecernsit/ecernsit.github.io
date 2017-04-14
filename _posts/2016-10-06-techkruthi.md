@@ -102,23 +102,26 @@ title: "Techkruthi"
 </div>
 
 
-> Notifications
+<h4> Notifications </h4>
 
 
 
-* Check out <a target="_blank" href="https://ecernsit.github.io/techkruthi/tkpromo">Promos</a> for Discount on tickets
+> Check out <a target="_blank" href="https://ecernsit.github.io/techkruthi/tkpromo">Promos</a> for Discount on tickets
 
+> All prelims will be at 3:20 pm
 
 
 * Query Email id   <a href="mailto:{{ site.email }}">rnsecetechfest@gmail.com</a>
 <hr>
 >Teacher Co-ordinaters: 
 
-* Nandhini   <a href="tel:+919538365959">+91 95383 65959</a>
+* Nandhini   <a href="tel:+919538365959"></a>
 <hr>
+
 >Student Co-ordinaters: 
 
-* Yogu  <a href="tel:+918105325556">+91 81053 25556</a>
+* Yogu  <a href="tel:+918105325556">+91 81053 25556</a><p></p>
+
 * Rahul <a href="tel:+918904117750">+91 89041 11750</a>
 
 

@@ -78,10 +78,9 @@ title: Techkruthi Events
 </nav>
 
 <h3>Registration Open</h3>
-<!---
+
 <h4> If interested in multiple events do fill up this <a target="_blank" href="https://goo.gl/forms/pPs98LbyaOMOmIEO2">Form</a>
 </h4>
---->
 <hr>
 
 
@@ -157,5 +156,18 @@ title: Techkruthi Events
 <div class='button -regular center'>
 <a target="_blank" href="https://ecernsit.github.io/techkruthi/dubsmash">Dubsmash</a>
 </div>
+
+
+###### Recreation Events
+
+<div class='button -regular center'>
+<a target="_blank" href="https://ecernsit.github.io/techkruthi/sudoku">Sudoku</a></div>
+
+<div class='button -regular center'>
+<a target="_blank" href="https://ecernsit.github.io/techkruthi/cw">Crossword</a></div>
+
+<div class='button -regular center'>
+<a target="_blank" href="https://ecernsit.github.io/techkruthi/gw">Guess What</a></div>
+
 
 

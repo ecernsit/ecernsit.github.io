@@ -12,8 +12,8 @@ Videos demystifying the technology in our everyday lives. Covers the breakthroug
 <hr>
 > Contact:
   
-* Srivatsa <a href="tel:+918073167404">+91 80731 67404</a>
-* Suddat   <a href="tel:+917406980908">+91 74069 80908</a>
+* Srivatsa <a href="tel:+9197397 82917">+91 97397 82917</a>
+* Sudatt  <a href="tel:+917406980908">+91 74069 80908</a>
 * Query Email id   <a href="mailto:{{ site.email }}">rnsecetechfest@gmail.com</a>
 
 
