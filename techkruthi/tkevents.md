@@ -139,7 +139,7 @@ title: Techkruthi Events
 <a target="_blank" href="https://ecernsit.github.io/techkruthi/theater">Walk In Theater</a></div>
 
 <div class='button -regular center'>
-<a target="_blank" href="https://ecernsit.github.io/techkruthi/duet">Solo Singing</a></div>
+<a target="_blank" href="https://ecernsit.github.io/techkruthi/solo">Solo Singing</a></div>
 
 <div class='button -regular center'>
 <a target="_blank" href="https://ecernsit.github.io/techkruthi/techcharads">Techcharads</a></div>
