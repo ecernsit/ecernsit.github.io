@@ -83,7 +83,7 @@ title: "Techkruthi"
 <hr>
 
 
-<img src="https://ecernsit.github.io/assets/tk.jpg" style="width:50%" class="ce">
+<img src="https://ecernsit.github.io/assets/tk.jpg" style="width:30%" class="ce">
 
 
 <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSfKS687uww7uTI4AZ-u48e5EkvquqPoMoghVxgbdLvuApG9Bw/viewform?usp=sf_link">Multi-Event Reg Form</a>
