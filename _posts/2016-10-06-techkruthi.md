@@ -72,10 +72,9 @@ title: "Techkruthi"
 }
 
 
-.center {
+.ce {
     margin: auto;
     width: 60%;
-    padding: 10px;
 }
 
 
@@ -84,7 +83,7 @@ title: "Techkruthi"
 <hr>
 
 
-<img src="https://ecernsit.github.io/assets/tk.jpg" style="width:50%" class="center">
+<img src="https://ecernsit.github.io/assets/tk.jpg" style="width:50%" class="ce">
 
 
 <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSfKS687uww7uTI4AZ-u48e5EkvquqPoMoghVxgbdLvuApG9Bw/viewform?usp=sf_link">Multi-Event Reg Form</a>
@@ -109,7 +108,7 @@ title: "Techkruthi"
 
 * Check out <a target="_blank" href="https://ecernsit.github.io/techkruthi/tkpromo">Promos</a> for Discount on tickets
 
-
+<hr>
 
 * Query Email id   <a href="mailto:{{ site.email }}">rnsecetechfest@gmail.com</a>
 
