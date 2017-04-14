@@ -2,11 +2,10 @@
 title: "Techkruthi Promo"
 ---
 
-### Stay tuned 
+### Buy tickets worth 200 or more & get 10% off 
 
+<img src="https://ecernsit.github.io/assets/tk.jpg" style="width:100%">
 
-
-<img src="ecernsit.github.io/techkruthi/tease.gif"  style="width:80%;">
 
 
 <style>

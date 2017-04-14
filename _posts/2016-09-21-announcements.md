@@ -2,6 +2,13 @@
 title: Announcements
 ---
 
+>14 Apr, 2017
+
+### Registrations for Techkruthi Open
+
+<img src="https://ecernsit.github.io/assets/tk.jpg" style="width:100%">
+
+
 >15 Mar, 2017
 
 ### 1st Internals TimeTable
