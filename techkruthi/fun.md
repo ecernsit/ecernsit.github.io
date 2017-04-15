@@ -32,9 +32,6 @@ title: Funniest meme
 * Rahul <a href="tel:+918904117750">+91 89041 17750</a>
 * Query Email id   <a href="mailto:{{ site.email }}">rnsecetechfest@gmail.com</a>
 
-(Do not submit paper to this email u should submit in the reg form by clicking the above button.
-
-
 > Entry Fee : ₹ 20/-
 <style>
 .button {

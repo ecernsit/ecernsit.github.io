@@ -3,9 +3,30 @@ title: Dubsmash
 ---
 
 
-### Stay tuned We shall update by Apr 14th, 2017
+### Rules for Dubsmash
+
+1. The number of team members- max of 6 
+2. The duration shouldn't exceed 40 seconds
+3. The video must be uploaded before Friday night
+4. Only an individual can also make a video
+5. The funniest or the craziest Dubsmash gets the first place
+6. The usage of "Dubsmash" app is not mandatory
+7. No language restrictions
+
+
 
 <hr>
+> Contact:
+  
+* Aditya  <a href="tel:+919731644605">+91 97316 44605</a>
+* Query Email id   <a href="mailto:{{ site.email }}">rnsecetechfest@gmail.com</a>
+
+> Entry Fee : ₹ 30/-
+
+
+
+
+
 
 
 <style>

@@ -22,7 +22,7 @@ title: Guess what
 > Contact:
   
 * Vamshi <a href="tel:+919686557674">+91 96865 57674</a>
-* Yogu   <a href="tel:+918105325556">+91 81053 25556</a>
+* Vishwas   <a href="tel:+919481824825">+91 94818 24825</a>
 * Query Email id   <a href="mailto:{{ site.email }}">rnsecetechfest@gmail.com</a>
 
 > Entry Fee : FREE
