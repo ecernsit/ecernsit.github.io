@@ -9,21 +9,28 @@ title: "Techkruthi Promo"
 ### Buy tickets worth 200 or more & get 10% off 
 <img src="https://ecernsit.github.io/assets/tksche.jpg" style="width:80%">
 
+<p>
+</p>
 ### All participants get IETE certificates
 
-<video width="320" height="240" controls>
-  <source src="video/techkruthi/1.mp4" type="video/mp4">
-  <source src="video/techkruthi/1.ogg" type="video/ogg">
+<p>
+</p>
+<video width="80%"  controls>
+  <source src="techkruthi/video/1.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-<video width="320" height="240" controls>
-  <source src="video/techkruthi/2.mp4" type="video/mp4">
-  <source src="video/techkruthi/2.ogg" type="video/ogg">
+
+<p>
+</p>
+<video width="80%" height="240" controls>
+  <source src="techkruthi/video/2.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-<video width="320" height="240" controls>
-  <source src="video/techkruthi/3.mp4" type="video/mp4">
-  <source src="video/techkruthi/3.ogg" type="video/ogg">
+
+<p>
+</p>
+<video width="80%" height="240" controls>
+  <source src="techkruthi/video/3.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
