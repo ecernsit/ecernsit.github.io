@@ -16,21 +16,21 @@ title: "Techkruthi Promo"
 <p>
 </p>
 <video width="80%"  controls>
-  <source src="techkruthi/video/1.mp4" type="video/mp4">
+  <source src="https://ecernsit.github.io/techkruthi/video/1.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
 <p>
 </p>
 <video width="80%" height="240" controls>
-  <source src="techkruthi/video/2.mp4" type="video/mp4">
+  <source src="https://ecernsit.github.io/techkruthi/video/2.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
 <p>
 </p>
 <video width="80%" height="240" controls>
-  <source src="techkruthi/video/3.mp4" type="video/mp4">
+  <source src="https://ecernsit.github.io/techkruthi/video/3.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
