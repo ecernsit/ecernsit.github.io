@@ -83,7 +83,10 @@ title: "Techkruthi"
 <hr>
 
 
-<img src="https://ecernsit.github.io/assets/tk.jpg" style="width:30%" class="ce">
+<img src="https://ecernsit.github.io/assets/tk.jpg" style="width:30%" class="ce"/>
+
+<p>
+</p>
 
 ### Registrations are open
 
