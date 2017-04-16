@@ -3,7 +3,7 @@ title: "Techkruthi Promo"
 ---
 
 
-<h4><a  target="_blank" href="fb.com/techkruthi">Facebook Page</a> </h4>
+<h4><a  target="_blank" href="https://fb.com/techkruthi">Facebook Page</a> </h4>
 
 
 ### Buy tickets worth 200 or more & get 10% off 

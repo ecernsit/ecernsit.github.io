@@ -5,19 +5,17 @@ title: Tech Ads
 
 ### Rules for Tech Ads
 
-1.  Registrations can be done till 10am in the morning of the fest day 
-2.  A team shall not have more than 5 members
-3.  The time limit for each act is 3-6 mins .
-4.  Participants are allowed to choose their own topics but it should   be strictly technical. 
+1. Registration is compulsory .(registration closes on Friday for this event. 
+2. A team shall not have more than 5 members
+3. The time limit for each act is 3-6 mins .
+4. Participants are given their topics on Friday evening for which they will have to perform on Saturday.
 5.  Participants cannot replicate existing advertisements.
 6.  Props can be used 
-7.  Vulgarity would end up in negative points.
-8.   creative ideas will be given a higher preference
-9.  The act can be made humorous by your creativity but care must be taken not to deviate from the technical background.
+7. Vulgarity would end up in negative points.
+8.  creative ideas will be given a higher preference
+9. The act can be made humorous by your creativity but care must be taken not to deviate from the technical background.
 10. The participants are judged based on their vocabulary , teamwork, innovation, entertainment and overall presentation.
-11. The judge's decision will be final and binding on all.
-
-
+11.  The judge's decision will be final and binding on all.
 
 * In order to participate in multiple events fill the Multi form only once on <a  target="_blank" href="https://ecernsit.github.io/techkruthi"> Techkruthi Page </a>
 * Participants should register for Tech Ads by clicking button below, and also make payment at a helpdesk near library
@@ -33,8 +31,8 @@ title: Tech Ads
 
 > Contact:
     
-* Likith <a href="tel:+919535402471">+91 95354 02471</a>
-* Mahanth   <a href="tel:+919632405840">+91 96324 05840</a>
+* Likith <a href="tel:+919535978560">+91 95359 78560</a>
+* Mahanth   <a href="tel:+917406765094">+91 74067 65094</a>
 * Query Email id   <a href="mailto:{{ site.email }}">rnsecetechfest@gmail.com</a>
 
 

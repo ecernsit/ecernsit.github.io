@@ -36,7 +36,7 @@ title: Kannada Anthyakshari
 * Sharth <a href="tel:+919880725224">+91 9880725224</a>
 * Query Email id   <a href="mailto:{{ site.email }}">rnsecetechfest@gmail.com</a>
 
-> Entry Fee : ₹ 20/-
+> Entry Fee : ₹ 50/-
 
 
 <hr>
