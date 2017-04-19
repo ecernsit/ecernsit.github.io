@@ -1,5 +1,5 @@
 ---
-title: CROSS WORD 
+title: Word Search
 ---
 
 

@@ -24,7 +24,7 @@ title: Paper Presentation
 3. Paper should not exceed 6 pages
  
 > Details of team members, name, Deapartment, E-mail id, Contact number should be sent along with the paper
-> Deadline for submission : 23:59 , Apr 17, 2017.
+> Deadline for submission : 09:00 am , Apr 20, 2017.
 > Entry fee has to be paid before submission of the project i.e  before Apr 11, 2017.
 
 
