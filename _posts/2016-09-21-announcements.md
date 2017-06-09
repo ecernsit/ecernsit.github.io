@@ -2,6 +2,13 @@
 title: Announcements
 ---
 
+>7 june, 2017
+
+### Lab Repetations time table
+
+<img src="https://ecernsit.github.io/assets/labrep.jpg" style="width:100%">
+
+
 >14 Apr, 2017
 
 ### Registrations for Techkruthi Open
