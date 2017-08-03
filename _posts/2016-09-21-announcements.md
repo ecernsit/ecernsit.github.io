@@ -2,6 +2,15 @@
 title: Announcements
 ---
 
+>3 Aug, 2017
+
+### 2nd year & 3rd Year Shuffle Details & 
+<a href="{{ site.baseurl }}/ttp">TimeTable</a>
+
+<img src="https://ecernsit.github.io/assets/class3.png" style="width:50%">
+<img src="https://ecernsit.github.io/assets/class4.png" style="width:50%">
+
+
 >7 june, 2017
 
 ### Lab Repetations time table
