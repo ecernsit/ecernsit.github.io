@@ -2,6 +2,14 @@
 title: Announcements
 ---
 
+>17 Aug,2017
+
+### Calender Of Events Odd Sem Aug '17 - Jan '18
+
+<a href="https://drive.google.com/open?id=0B9cqMjKT9M-dRndQNjFFMXBsVkxST2hJZktUNTBYeVNMZFdJ">Download</a>
+
+<iframe src==="https://drive.google.com/open?id=0B9cqMjKT9M-dRndQNjFFMXBsVkxST2hJZktUNTBYeVNMZFdJ" style="width:70%"></iframe>
+
 >3 Aug, 2017
 
 ### 2nd year & 3rd Year Shuffle Details & 
