@@ -8,7 +8,7 @@ title: Announcements
 
 <a href="https://drive.google.com/open?id=0B9cqMjKT9M-dRndQNjFFMXBsVkxST2hJZktUNTBYeVNMZFdJ">Download</a>
 
-<iframe src==="https://drive.google.com/open?id=0B9cqMjKT9M-dRndQNjFFMXBsVkxST2hJZktUNTBYeVNMZFdJ" style="width:70%"></iframe>
+<iframe src="https://drive.google.com/open?id=0B9cqMjKT9M-dRndQNjFFMXBsVkxST2hJZktUNTBYeVNMZFdJ" style="width:70%"></iframe>
 
 >3 Aug, 2017
 
