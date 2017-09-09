@@ -2,6 +2,14 @@
 title: Announcements
 ---
 
+
+
+
+>9 Sept, 2017
+
+### 1st Internals is out 
+<a href="{{ site.baseurl }}/ttp">TimeTable</a>
+
 >17 Aug,2017
 
 ### Calender Of Events Odd Sem Aug '17 - Jan '18
@@ -18,7 +26,7 @@ title: Announcements
 <img src="https://ecernsit.github.io/assets/class4.png" style="width:50%">
 
 
->7 june, 2017
+>7 June, 2017
 
 ### Lab Repetations time table
 
