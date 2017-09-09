@@ -7,7 +7,7 @@ title: Announcements
 
 >9 Sept, 2017
 
-### 1st Internals is out 
+### 1st Internals TimeTable is out 
 <a href="{{ site.baseurl }}/ttp">TimeTable</a>
 
 >17 Aug,2017
