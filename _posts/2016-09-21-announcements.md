@@ -2,7 +2,14 @@
 title: Announcements
 ---
 
+    
 
+
+>10 Oct, 2017
+
+### Lab Repetations time table
+
+<img src="https://ecernsit.github.io/assets/2nd tt.png" style="width:100%">
 
 
 >9 Sept, 2017
