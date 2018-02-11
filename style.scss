@@ -32,7 +32,7 @@ body {
 }
 
 a {
-  color: #268bd2;
+  color: #000;
   text-decoration: none;
 
   &:hover,
@@ -60,6 +60,9 @@ h2 {
 
 h3 {
   font-size: 1.3rem;
+  color: #000;
+  text-decoration: none;
+  
 }
 
 h4, h5, h6 {
