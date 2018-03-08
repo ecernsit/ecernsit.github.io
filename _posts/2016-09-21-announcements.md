@@ -3,8 +3,7 @@ title: Announcements
 ---
 
 >8 Mar, 2018
-### 1st internals Timetable is available
-
+### 1st internals Timetable is out on timetable & portions tab on home page 
 
 >13 Nov, 2017
 
