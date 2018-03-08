@@ -2,6 +2,10 @@
 title: Announcements
 ---
 
+>8 Mar, 2018
+### 1st internals Timetable is available
+
+
 >13 Nov, 2017
 
 ### Lab Internals & Repetation TimeTable is out on timetable & portions tab on home page 
