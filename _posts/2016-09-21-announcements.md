@@ -7,7 +7,7 @@ title: Announcements
 
 ### 2nd Internals time table
 
-<img src="https://drive.google.com/file/d/1DAgmeBl8M1b1kUqFHW8wALc2mjqobgRT/view?usp=drivesdk">
+<img src="ecernsit.github.io/assets/Screenshot_20180402211737.jpg">
 
 >8 Mar, 2018
 ### 1st internals Timetable is out on timetable & portions tab on home page 
