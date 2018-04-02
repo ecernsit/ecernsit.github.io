@@ -2,6 +2,13 @@
 title: Announcements
 ---
 
+>2 Aprl , 2018
+
+
+### 2nd Internals time table
+
+<img src="https://drive.google.com/file/d/1DAgmeBl8M1b1kUqFHW8wALc2mjqobgRT/view?usp=drivesdk" style="width:100%">
+
 >8 Mar, 2018
 ### 1st internals Timetable is out on timetable & portions tab on home page 
 
