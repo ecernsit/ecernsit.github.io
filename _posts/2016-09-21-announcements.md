@@ -5,7 +5,7 @@ title: Announcements
 >3 May ,2019
 ### National Conference
 
-<img src="https://ecernsit.github.io/assets/NationalConference2019poster.png" style="width:100%">
+<img src="https://ecernsit.github.io/assets/National Conference 2019 poster-4.png" style="width:100%">
 
 >2 Aprl , 2018
 ### 2nd Internals time table
