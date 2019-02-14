@@ -5,12 +5,12 @@ title: Announcements
 >3 May ,2019
 ### National Conference
 
-<img src="ecernsit.github.io/assets/National Conference 2019 poster-4.png" style="width:100%">
+<img src="https://ecernsit.github.io/assets/NationalConference2019poster.png" style="width:100%">
 
 >2 Aprl , 2018
 ### 2nd Internals time table
 
-<img src="ecernsit.github.io/assets/Screenshot_20180402211737.jpg">
+<img src="ecernsit.github.io/assets/Screenshot_20180402211737.jpg" style="width:100%">
 
 >8 Mar, 2018
 ### 1st internals Timetable is out on timetable & portions tab on home page 
