@@ -1,7 +1,10 @@
 ---
 title: Announcements
 ---
-
+>16 Feb ,2020
+### TED event
+## @Hi-tech LAB 
+ 
 >23 Feb ,2019
 ### Coding contest
 <img src="https://ecernsit.github.io/assets/WhatsApp Image 2019-02-15 at 10.06.06 AM.jpeg" style="width:100%">
