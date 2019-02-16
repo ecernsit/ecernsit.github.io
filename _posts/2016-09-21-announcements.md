@@ -2,6 +2,10 @@
 title: Announcements
 ---
 
+>23 Feb ,2019
+### Coding contest
+<img src="https://ecernsit.github.io/assets/WhatsApp Image 2019-02-15 at 10.06.06 AM.jpeg" style="width:100%">
+
 >3 May ,2019
 ### National Conference
 
