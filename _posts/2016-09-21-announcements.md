@@ -13,68 +13,38 @@ title: Announcements
 <!--
 >2 Aprl , 2018
 ### 2nd Internals time table
-<
 <img src="ecernsit.github.io/assets/Screenshot_20180402211737.jpg" style="width:100%">
-<
 >8 Mar, 2018
 ### 1st internals Timetable is out on timetable & portions tab on home page 
-<
 >13 Nov, 2017
-<!--
 ### Lab Internals & Repetation TimeTable is out on timetable & portions tab on home page 
-
-<!--
 >10 Oct, 2017
-<
 ### 2nd Internals time table
-<
 <img src="https://ecernsit.github.io/assets/2nd tt.png" style="width:100%"
-<!--
 >9 Sept, 2017
-<
 ### 1st Internals TimeTable is out 
 <a href="{{ site.baseurl }}/ttp">TimeTable</a>
-<
 >17 Aug,2017
-<
 ### Calender Of Events Odd Sem Aug '17 - Jan '18
-<
 <a href="https://drive.google.com/open?id=0B9cqMjKT9M-dRndQNjFFMXBsVkxST2hJZktUNTBYeVNMZFdJ">Download</a>
-
-<!--
 >3 Aug, 2017
-<
 ### 2nd year & 3rd Year Shuffle Details & 
 <a href="{{ site.baseurl }}/ttp">TimeTable</a>
-<
 <img src="https://ecernsit.github.io/assets/class3.png" style="width:50%">
 <img src="https://ecernsit.github.io/assets/class4.png" style="width:50%">
-<
 >7 June, 2017
-<
 ### Lab Repetations time table
-<
 <img src="https://ecernsit.github.io/assets/labrep.jpg" style="width:100%">
-<
 >14 Apr, 2017
-<
 ### Registrations for Techkruthi Open
-<
 <img src="https://ecernsit.github.io/assets/tk.jpg" style="width:100%">
-<
 >15 Mar, 2017
-<
 ### 1st Internals TimeTable
-<
  <img src="https://ecernsit.github.io/assets/TT2017evenSem.jpg" style="width:100%">
-<
 >10 Feb, 2017
 2017 even Sem <a  target="_blank" href="https://drive.google.com/open?id=0B9cqMjKT9M-dVjVUd0gyeFY5NmM" >Timetable</a>
-<
 >4 Jan, 2017
-<
 ### Examinations Re-scheduled : Final dates,
-<
 3rd Jan,17 to 13th Jan,17
 4th Jan,17 to 12th Jan,17
 >3 Jan, 2017
@@ -84,7 +54,9 @@ title: Announcements
 >19 Nov,2016
 5th sem  Check out the Lab go thru Videos on Notes page
 >9 Nov,2016		
-III - Internal Time Table			
+III - Internal Time Table	
+-->
+
 <!--			
 |Date & Day|			|9.00am - 10.45 am				 |2.00pm - 3.45pm|
 |-------------------------------------+------------+--------------------------------------------------------------+------------------------------------------------|
