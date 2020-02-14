@@ -2,14 +2,10 @@
 title: Announcements
 ---
 
->23 Feb ,2019
-### Coding contest
-<img src="https://ecernsit.github.io/assets/WhatsApp Image 2019-02-15 at 10.06.06 AM.jpeg" style="width:100%">
+>14 Feb ,2020
+### Calender of events
+<img src="https://github.com/ecernsit/ecernsit.github.io/blob/master/assets/WhatsApp%20Image%202020-02-14%20at%2016.15.08.jpeg" style="width:100%">
 
->3 May ,2019
-### National Conference
-
-<img src="https://ecernsit.github.io/assets/National Conference 2019 poster-4.png" style="width:100%">
 <!--
 >2 Aprl , 2018
 ### 2nd Internals time table
