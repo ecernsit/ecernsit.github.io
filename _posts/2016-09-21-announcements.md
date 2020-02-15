@@ -3,15 +3,14 @@ title: Announcements and Circulars
 ---
 
 >14 Feb ,2020
-### Calender of events
-<img src="https://github.com/ecernsit/ecernsit.github.io/blob/master/assets/WhatsApp%20Image%202020-02-14%20at%2016.15.08.jpeg" style="width:100%">
-
->15 Feb ,2020
-### Calender of events
-<img src="https://github.com/ecernsit/ecernsit.github.io/assets/WhatsApp Image 2020-02-14 at 16.15.08.jpeg" style="width:100%">
+### Calender of events Odd Sem 
+<a href="https://drive.google.com/open?id=1Nab0lFCUl2YK_R8Qpp_fQh_OVfczrx1W">Download</a>
 
 
 <!--
+>15 Feb ,2020
+### Calender of events
+<img src="https://github.com/ecernsit/ecernsit.github.io/assets/WhatsApp Image 2020-02-14 at 16.15.08.jpeg" style="width:100%">
 >2 Aprl , 2018
 ### 2nd Internals time table
 <img src="ecernsit.github.io/assets/Screenshot_20180402211737.jpg" style="width:100%">
