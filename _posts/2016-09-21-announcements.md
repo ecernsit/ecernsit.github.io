@@ -6,6 +6,11 @@ title: Announcements and Circulars
 ### Calender of events
 <img src="https://github.com/ecernsit/ecernsit.github.io/blob/master/assets/WhatsApp%20Image%202020-02-14%20at%2016.15.08.jpeg" style="width:100%">
 
+>15 Feb ,2020
+### Calender of events
+<img src="https://github.com/ecernsit/ecernsit.github.io/assets/WhatsApp Image 2020-02-14 at 16.15.08.jpeg" style="width:100%">
+
+
 <!--
 >2 Aprl , 2018
 ### 2nd Internals time table
