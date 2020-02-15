@@ -3,7 +3,7 @@ title: Announcements and Circulars
 ---
 
 >14 Feb ,2020
-### Calender of events Odd Sem 
+### Calender of events even Sem 
 <a href="https://drive.google.com/open?id=1Nab0lFCUl2YK_R8Qpp_fQh_OVfczrx1W">Download</a>
 
 
