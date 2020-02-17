@@ -4,7 +4,7 @@ title: Announcements and Circulars
 
 >14 Feb ,2020
 
-<a href="https://drive.google.com/open?id=1Nab0lFCUl2YK_R8Qpp_fQh_OVfczrx1W">### Calender of events even Sem </a>
+<a href="https://drive.google.com/open?id=1Nab0lFCUl2YK_R8Qpp_fQh_OVfczrx1W"><b> Calender of events (Even Sem - Feb 2020)</b> </a>
 
 
 <!--
