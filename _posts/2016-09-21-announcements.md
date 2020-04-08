@@ -4,7 +4,8 @@ Title: Announcements and Circulars
 
 >14 Feb ,2020
 
-<a href="https://drive.google.com/open?id=1Nab0lFCUl2YK_R8Qpp_fQh_OVfczrx1W"><b> Calender of events (Even Sem - Feb 2020)</b> </a>
+<a href="https://drive.google.com/open?id=1Nab0lFCUl2YK_R8Qpp_fQh_OVfczrx1W"><b> Calender of events (Even Sem - Feb 2020)</b> </a> <br>
+<a href= "https://vtu.ac.in/wp-content/uploads/2020/03/Circular-5.pdf"> <b> Extension of Holidays due to COVID'19 by the University </b> </a>
 
 
 <!--
