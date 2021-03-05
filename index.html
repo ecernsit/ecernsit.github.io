@@ -4,9 +4,12 @@ layout: default
 
 <header class="masthead" style="text-align:center">
 	<h1 class="masthead-title--small">
-	  <marquee  direction= "right" onmouseover="this.stop();" onmouseout="this.start();" >
+	  div class="alert alert-danger alert-dismissible" role="alert">
+<button type="button" onclick="this.parentNode.parentNode.removeChild(this.parentNode);" class="close" data-dismiss="alert"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
+<marquee  direction= "right" onmouseover="this.stop();" onmouseout="this.start();" >
 	<a href="https://drive.google.com/drive/folders/1JIg7mk5hor33zCXmxoBj1yNNS6BY2WKS?usp=sharing"> "updated time Table, Lab batch list section wise for odd semester - 2020 "</a> <br>
-</marquee>
+	
+	 </marquee> 
 	  <a href="{{ site.baseurl }}/">
 		  <b>
 		  <h2>RNS Institute of Technology</h1>
