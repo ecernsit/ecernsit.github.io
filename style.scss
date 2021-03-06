@@ -312,6 +312,15 @@ tbody tr:nth-child(odd) th {
       }
     }
   }
+  .imagescroll {
+    display: grid;
+    justify-items:center;
+    align-items:center;
+    width:1200px;
+    margin:auto;
+    padding-bottom:67px
+  }
+    
 
   .masthead-nav {
     margin-bottom: 2rem;
