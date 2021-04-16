@@ -6,8 +6,8 @@ Title: "TIME TABLE"
 
 <b>  <a href=" ">IV semester</a>  <br>
   
-   <a href=" ">VI semester</a>  <br>
+   <b><a href=" ">VI semester</a>  <br>
    
-  <a href=" ">VIII semester</a><br>
-  </b>
+  <b><a href=" ">VIII semester</a><br>
+  
   
