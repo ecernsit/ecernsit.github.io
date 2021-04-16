@@ -4,7 +4,7 @@ Title: Announcements and Circulars
 
 >16 April,2021
 
-<a href="https://vtu.ac.in/wp-content/uploads/2021/04/Circular-4.pdf"><b> Calender of events (Even Sem - 2021)</b> </a> <br>
+<a href="https://vtu.ac.in/wp-content/uploads/2021/04/Circular-4.pdf"><b> VTU Calender of events (Even Sem - 2021)</b> </a> <br>
 
 
 <!--
