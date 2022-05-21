@@ -6,9 +6,9 @@ Title: Announcements and Circulars
 
 
 <a href="https://ncetest2022.github.io/"><b> National Conference 2022</b> </a> <br>
-<a href="splash poster.jpg"><b> Splash 2022 events</b> </a> <br>
-<a href="student workshop vlsi.pdf"><b> Student Workshop </b> </a> <br>
-<a href="sps1.jpeg"><b> Technical talk series on Applications of AI in Engineering sponsered by IEEE SPS Chapter</b> </a> <br>
+<a href="_posts/splash poster.jpg"><b> Splash 2022 events</b> </a> <br>
+<a href="_posts/student workshop vlsi.pdf"><b> Student Workshop </b> </a> <br>
+<a href="_posts/sps1.jpeg"><b> Technical talk series on Applications of AI in Engineering sponsered by IEEE SPS Chapter</b> </a> <br>
 
 
 
