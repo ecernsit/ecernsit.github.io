@@ -4,7 +4,9 @@ Title: Announcements and Circulars
 
 >19 May,2022
 
+<a href="https://www.facebook.com/photo/?fbid=529573415465356&set=a.127774498978585"><b> Splash 2022 events</b> </a> <br>
 <a href="splash poster.jpg"><b> Splash 2022 events</b> </a> <br>
+
 <a href="https://ncetest2022.github.io/"><b> National Conference 2022</b> </a> <br>
 <a href="_posts/student workshop vlsi.pdf"><b> Student Workshop </b> </a> <br>
 <a href="_posts/sps1.jpeg"><b> Technical talk series on Applications of AI in Engineering sponsered by IEEE SPS Chapter</b> </a> <br>
