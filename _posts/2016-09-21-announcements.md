@@ -4,7 +4,7 @@ Title: Announcements and Circulars
 
 >19 May,2022
 
-<a href="https://vtu.ac.in/wp-content/uploads/2021/04/Circular-4.pdf"><b> VTU Calender of events (Even Sem - 2021)</b> </a> <br>
+<a href="ecernsit.github.io/splash poster.jpg"><b> Splash 2022 events</b> </a> <br>
 
 
 <!--
