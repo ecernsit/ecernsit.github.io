@@ -11,6 +11,7 @@ Title: Announcements and Circulars
 <a href="sps1.jpeg"><b> Technical talk series on Applications of AI in Engineering sponsered by IEEE SPS Chapter</b> </a> <br>
 
 
+
  
 
 
