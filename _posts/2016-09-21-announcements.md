@@ -4,7 +4,7 @@ Title: Announcements and Circulars
 
 >19 May,2022
 
-<a href="/splash poster.jpg"><b> Splash 2022 events</b> </a> <br>
+<a href="splash poster.jpg"><b> Splash 2022 events</b> </a> <br>
 
 
 <!--
