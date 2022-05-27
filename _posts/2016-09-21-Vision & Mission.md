@@ -1,5 +1,5 @@
 ------------------------------------
-Title =" Vision and Mission"
+Title " Vision and Mission"
 ------------------------------------
 # Vision
 <p> Conquering technical frontiers in the field of Electronics and Communication.</p>
