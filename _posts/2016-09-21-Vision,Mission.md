@@ -11,7 +11,7 @@ Title: "Vision and Mission"
 <ol> <b><li> Achieving and fostering excellence in core Electronics and Communication engineering with focus on the hardware, simulation and design.</li>
      <b><li> Pursuing Research, Development and Consultancy to achieve self sustenance.</li>
      <b><li> Preparing industry ready graduates by providing skill training and nurturing innovation and creativity</li> 
-  </ol> 
+</ol> 
      
 
 
