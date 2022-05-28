@@ -2,7 +2,7 @@
 Title: "Vision and Mission"
 ---
 # Vision
-<b> <p> Conquering technical frontiers in the field of Electronics and Communication.</p></b>
+<b>  Conquering technical frontiers in the field of Electronics and Communication.</b>
   
 
 # Mission
