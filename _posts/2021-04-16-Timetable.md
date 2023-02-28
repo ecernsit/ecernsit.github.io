@@ -5,5 +5,5 @@ Title: "TIME TABLE"
 
 
 <b>  <a href="https://docs.google.com/spreadsheets/d/1kTqqoxBxYpMrH02OsmDlA8hkfFGLbn5A/edit?usp=sharing&ouid=118020242665899652419&rtpof=true&sd=true">Odd semester Time Table</a>  <br>
-  
+  <b>  <a href="https://rnsit.ac.in">even semester Time Table</a>  <br>
    
